@@ -1,5 +1,5 @@
 {
-  "homepage": "http://dosbolacademic.github.io/Flash-Card-Part-1-React-JS-",
+  
   "name": "homework-assignment-2",
   "private": true,
   "version": "0.0.0",
@@ -7,8 +7,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "predeploy":"npm run build",
-    "deploy": "gh-pages -d build",
+    
     "preview": "vite preview"
   },
   "dependencies": {
