@@ -1,0 +1,95 @@
+body {
+    background: url('./pexels-pixabay-163703.jpg') no-repeat center center fixed;
+    background-size: cover;
+  }
+
+  
+  
+  .flashcard-container {
+    display:inline-block;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    position: relative;
+  left: 400px;
+}
+  .flashcard {
+    width: 512px;
+    height: 250px;
+    
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    position: relative;
+    transform-style: preserve-3d;
+    transition: all 0.5s ease;
+    background-color: pink;
+    
+  }
+
+  
+  
+  .flashcard.flipped {
+    transform: rotateY(180deg);
+  }
+  
+  .front,
+  .back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    backface-visibility: hidden;
+    background-color: pink;
+  }
+  
+  .front {
+    z-index: 2;
+    transform: rotateY(0deg);
+    
+  }
+  
+  
+  .back {
+    transform: rotateY(180deg);
+   
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #0077cc;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    position: relative;
+  left: 200px;
+  
+ 
+
+  }
+  
+  button:hover {
+    background-color: #0066b3;
+  }
+  
+  .header {
+    text-align: center;
+  }
+  
+  .flashcard-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  .card-button {
+    margin-top: 20px;
+  }
+  
