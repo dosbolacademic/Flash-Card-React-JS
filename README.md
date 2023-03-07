@@ -26,11 +26,13 @@ The following **additional** features are implemented:
 
 * [X] List anything else that you added to improve the site's functionality!
 
+
+https://dosbolacademic.github.io/Flash-Card-React-JS/
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-https://dosbolacademic.github.io/Flash-Card-React-JS/
+
 
 Link for my Deployed project on GitHub
 
@@ -38,7 +40,6 @@ Link for my Deployed project on GitHub
 
 
 <a href="https://www.loom.com/share/07fc061aaf2346ee89115eb8bfe40058">
-    
     <img style="max-width:300px;" src="null">
   </a>
 
