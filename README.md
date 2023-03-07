@@ -41,9 +41,6 @@ Link for my Deployed project on GitHub
     <p>Loom Message - 6 March 2023 - Watch Video</p>
     <img style="max-width:300px;" src="null">
   </a>
-  Loom Message - 6 March 2023 - Watch Video
-
-<div style="position: relative; padding-bottom: 42.395833333333336%; height: 0;"><iframe src="https://www.loom.com/embed/07fc061aaf2346ee89115eb8bfe40058" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Notes
 
