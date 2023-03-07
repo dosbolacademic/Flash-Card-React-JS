@@ -27,15 +27,15 @@ The following **additional** features are implemented:
 * [X] List anything else that you added to improve the site's functionality!
 
 
-https://dosbolacademic.github.io/Flash-Card-React-JS/
+
 ## Video Walkthrough
-
 <a href="https://www.loom.com/share/1175e3cddc924cd48e8f0a2c4fa25b05">
-
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1175e3cddc924cd48e8f0a2c4fa25b05-with-play.gif">
   </a>
   
-Used Loom Message
+  Used Loom Message
+  
+
 ## Notes
 
 Describe any challenges encountered while building the app.
