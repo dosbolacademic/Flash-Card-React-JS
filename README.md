@@ -30,20 +30,9 @@ The following **additional** features are implemented:
 https://dosbolacademic.github.io/Flash-Card-React-JS/
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
 
-
-
-Link for my Deployed project on GitHub
-
-
-
-
-<a href="https://www.loom.com/share/07fc061aaf2346ee89115eb8bfe40058">
-   
-    <img style="max-width:300px;" src="null">
-  </a>
-
+  
+Used Loom Message
 ## Notes
 
 Describe any challenges encountered while building the app.
