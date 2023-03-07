@@ -1,6 +1,6 @@
-# Web Development Project 2 - *Flash Card*
+# Web Development Project 2 - *Flash Card App*
 
-Submitted by: **Dosbol Aloev**
+Submitted by: **Dosbol Aliev**
 
 This web app: **This app has 13 questions for Geography and Chemistry Subjects**
 
